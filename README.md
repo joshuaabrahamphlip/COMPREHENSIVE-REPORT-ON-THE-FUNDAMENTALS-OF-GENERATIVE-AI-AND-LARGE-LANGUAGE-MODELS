@@ -1,9 +1,17 @@
-# Exno.10-Prompt-Engg
-# Date : 
-# Register no:
-# Aim: To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
 
-# Algorithm: To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+Date:
+01/09/25
 
+Register No:
+25013744
 
-# Result :  The corresponding prompt executed successfully.
+Aim:
+To provide a comprehensive understanding of the fundamentals of generative AI and large language models, exploring their architecture, capabilities, and applications.
+
+Algorithm:
+The experiment involved studying and documenting various generative AI models, their training methodologies, prompt engineering techniques, and practical use cases in natural language processing.
+
+Result:
+The corresponding report and study on generative AI fundamentals were completed successfully.
+
